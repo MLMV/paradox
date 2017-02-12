@@ -1,0 +1,8 @@
+.Col1 .reveal .state-background {
+  background: Gainsboro;
+} 
+
+.reveal code.r {
+  background-color: #F8F8F8;
+  font-size: 0.85em
+}
